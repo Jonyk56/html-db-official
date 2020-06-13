@@ -10,6 +10,8 @@ here is our little friend known as the url to the web version! [https://raw.gith
 
 ---
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f6a8da2fef394b28a8f257b38e89d15d)](https://app.codacy.com/manual/Jonyk56/html-db-official?utm_source=github.com&utm_medium=referral&utm_content=Jonyk56/html-db-official&utm_campaign=Badge_Grade_Dashboard)
+
 # ChangeLog
 
 ---
