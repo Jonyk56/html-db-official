@@ -56,3 +56,23 @@ github: ``npm i Jony56/html-db-official#glitch``
 
 * 3.4.0-dev
   - Added Load + Save methods to db class
+  
+  
+  
+  ---
+  
+  # Docs 
+  
+  ---
+  
+  There are 6 functions in HTML-DB:
+  
+  all() - gets all the data
+  
+  createTable() - creates a table
+  
+  getTable() - gets a table
+  
+  hasTable() - if it has the table return true or false
+  
+  toJSON() - turns it into JSON text
